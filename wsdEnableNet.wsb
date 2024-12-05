@@ -1,0 +1,18 @@
+<Configuration>
+<Networking>Enable</Networking>
+<MappedFolders>
+  <MappedFolder>
+    <HostFolder>C:\Users\teiro\Desktop\wsbReadOnly</HostFolder>
+    <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\readonly</SandboxFolder>
+    <ReadOnly>true</ReadOnly>
+  </MappedFolder>
+  <MappedFolder>
+    <HostFolder>C:\Users\teiro\Desktop\wsbWritable</HostFolder>
+    <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\writable</SandboxFolder>
+    <ReadOnly>false</ReadOnly>
+  </MappedFolder>
+</MappedFolders>
+<Networking>Enable</Networking>
+<ClipboardRedirection>Enable</ClipboardRedirection>
+<MemoryInMB>10240</MemoryInMB>
+</Configuration>
