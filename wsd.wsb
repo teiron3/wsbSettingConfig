@@ -2,12 +2,12 @@
 <Networking>Enable</Networking>
 <MappedFolders>
   <MappedFolder>
-    <HostFolder>C:\Users\teiro\Desktop\wsbReadOnly</HostFolder>
+    <HostFolder>C:\Users\UserName\Desktop\wsbReadOnly</HostFolder>
     <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\readonly</SandboxFolder>
     <ReadOnly>true</ReadOnly>
   </MappedFolder>
   <MappedFolder>
-    <HostFolder>C:\Users\teiro\Desktop\wsbWritable</HostFolder>
+    <HostFolder>C:\Users\UserName\Desktop\wsbWritable</HostFolder>
     <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\writable</SandboxFolder>
     <ReadOnly>false</ReadOnly>
   </MappedFolder>
